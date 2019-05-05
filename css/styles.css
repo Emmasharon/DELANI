@@ -1,0 +1,53 @@
+.logo{
+  text-align: center;
+  margin-top: -500px;
+  color: white;
+}
+#mouse{
+  text-align: center;
+  margin-top: 100px;
+}
+.about {
+  text-align: center;
+  padding-top: 200px;
+}
+.service{
+  text-align: center;
+  margin-top: -300px;
+  color: white;
+  padding-bottom: 200px;
+}
+.what-we-do > h2{
+  text-align: center;
+}
+#flexer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.portfolio{
+  display: flex;
+}
+.contact-form{
+  background-image:url("../tools/IP3-master/assets/backgrounds/c_image.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+}
+#name, #email, #message{
+  background-color: transparent;
+}
+#button-color{
+  background-color: blue;
+  color: white;
+}
+input[type="text"],input[type="email"],textarea[type="text"]{
+  background:transparent;
+  outline: none;
+  background-color: transparent;
+}
+footer{
+  text-align: center;
+  margin-top: 100px;
+}
