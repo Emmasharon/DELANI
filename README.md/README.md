@@ -36,13 +36,18 @@ This is a website for a studio which is created using html, css, bootstrap, java
               <th>congratulatory message is sent to the client</th>
             </tr>
 
-  </table>   
+      </table>   
+## Instructions Of Used
+All you need to view this website is a browser and internet connection.
 
+No installation is needed. you get it straight from the internet.
 
 ## Technologies Used
 * HTML
 * CSS
-*JAVASCRIPT
+* javascript
+* bootstrap
+* jquery
 ## contacts
 contact me @ emmasharon19@gmail.com
 ### license
