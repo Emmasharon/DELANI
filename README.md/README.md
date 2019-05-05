@@ -9,6 +9,13 @@ This is a website for a studio which is created using html, css, bootstrap, java
  https://emmasharon.io/triangle-tracker/
 ## Behavior Driven Development
 
+<table>
+   <tr>
+     <th>Details</th>
+     <th>Input</th>
+     <th>Output</th>
+   </tr>
+
 ## Technologies Used
 * HTML
 * CSS
