@@ -15,6 +15,21 @@ This is a website for a studio which is created using html, css, bootstrap, java
      <th>Input</th>
      <th>Output</th>
    </tr>
+   <table>
+      <tr>
+        <th>Email adress</th>
+        <th>Email</th>
+        <th>Email is submitted</th>
+      </tr>
+
+      <table>
+         <tr>
+           <th>comment</th>
+           <th>comment</th>
+           <th>comment is submitted</th>
+         </tr>
+  </table>   
+
 
 ## Technologies Used
 * HTML
