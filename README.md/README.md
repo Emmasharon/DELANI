@@ -28,6 +28,14 @@ This is a website for a studio which is created using html, css, bootstrap, java
            <th>comment</th>
            <th>comment is submitted</th>
          </tr>
+
+         <table>
+            <tr>
+              <th>submit</th>
+              <th>message is sent</th>
+              <th>congratulatory message is sent to the client</th>
+            </tr>
+
   </table>   
 
 
