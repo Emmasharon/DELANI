@@ -30,9 +30,13 @@
   padding-top:100px;
   padding-bottom:30px;
 }
+.what-we-do{
+ text-align: center;
+}
 .what-we-do > #flexer > img {
   display: flex;
   margin-right: 30vw;
+  /* text-align: center; */
 
 }
 .what-we-do > h2 {
