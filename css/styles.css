@@ -26,6 +26,11 @@
   padding-top:100px;
   padding-bottom:30px;
 }
+.what-we-do > #flexer > img {
+  display: flex;
+  margin-right: 30vw;
+
+}
 .what-we-do > h2 {
   text-align: center;
   padding-top: 100px;
@@ -38,6 +43,7 @@
 .portfolio {
   padding: 50px;
   margin: 10px;
+  text-align: center;
 }
 .contact-form {
   background-image:url("../tools/IP3-master/assets/backgrounds/c_image.jpg");
