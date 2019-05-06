@@ -22,28 +22,24 @@ This is a website for a studio which is created using html, css, bootstrap, java
         <th>Email</th>
         <th>Email is submitted</th>
       </tr>
-
-     <tr>
+   <tr>
        <th>comment</th>
        <th>comment</th>
        <th>comment is submitted</th>
      </tr>
-
-     <table>
-
-       </tr>
+     </tr>
        <tr>
           <th>comment</th>
           <th>comment</th>
           <th>comment is submitted</th>
-        </tr>
-
-        <tr>
+       </tr>
+       <tr>
           <th>submit</th>
           <th>message is sent</th>
           <th>congratulatory message is sent to the client</th>
         </tr>
-      </table>      
+       </table> 
+      
 ## Instructions Of Use
 All you need to view this website is a browser and internet connection.
 
