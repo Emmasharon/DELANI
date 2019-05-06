@@ -1,24 +1,33 @@
-.logo {
+.logo , #mouse{
   text-align: center;
-  margin-top: -500px;
+  background-image: url("../tools/IP3-master/assets/backgrounds/h_img.jpg");
+  background-size: cover;
   color: white;
 }
 #mouse {
-  text-align: center;
-  margin-top: 100px;
+  padding-top: 150px;
 }
 .about {
   text-align: center;
-  padding-top: 200px;
+  padding-top: 100px;
 }
-.service {
+/* .service {
   text-align: center;
   margin-top: -300px;
   color: white;
   padding-bottom: 200px;
+} */
+.service {
+  background-image: url("../tools/IP3-master/assets/backgrounds/s_image.jpg");
+  text-align: center;
+  background-size: cover;
+  color: white;
+  padding-top:100px;
+  padding-bottom:30px;
 }
 .what-we-do > h2 {
   text-align: center;
+  padding-top: 100px;
 }
 #flexer {
   display: flex;
@@ -43,7 +52,7 @@
   color: white;
 }
 input[type="text"],input[type="email"],textarea[type="text"] {
-  background:transparent;
+  background: transparent;
   outline: none;
   background-color: transparent;
 }
