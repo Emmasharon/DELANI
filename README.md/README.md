@@ -17,11 +17,11 @@ This is a website for a studio which is created using html, css, bootstrap, java
      <th>Input</th>
      <th>Output</th>
    </tr>
-   <table>
       <tr>
         <th>Email adress</th>
         <th>Email</th>
         <th>Email is submitted</th>
+<<<<<<< HEAD
       </tr>
 
      <tr>
@@ -31,13 +31,25 @@ This is a website for a studio which is created using html, css, bootstrap, java
      </tr>
 
      <table>
+=======
+       </tr>
+       <tr>
+          <th>comment</th>
+          <th>comment</th>
+          <th>comment is submitted</th>
+        </tr>
+>>>>>>> 0573b6e36b83dc379aa7f33641ab0d007bf76a92
         <tr>
           <th>submit</th>
           <th>message is sent</th>
           <th>congratulatory message is sent to the client</th>
         </tr>
+<<<<<<< HEAD
 
       </table>   
+=======
+ </table>   
+>>>>>>> 0573b6e36b83dc379aa7f33641ab0d007bf76a92
 ## Instructions Of Use
 All you need to view this website is a browser and internet connection.
 
@@ -52,6 +64,9 @@ No installation is needed. you get it straight from the internet.
 
 ## contacts
 contact me @ emmasharon19@gmail.com
+
 ### license
 *MIT LICENSE
+
+
 Copyright &copy:2019.All rigths reserved
