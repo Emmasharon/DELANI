@@ -66,7 +66,9 @@ No installation is needed. you get it straight from the internet.
 contact me @ emmasharon19@gmail.com
 
 ### license
-*MIT LICENSE
+**[MIT](https://github.com/Emmasharon/DELANI/blob/master/LICENSE)**
+
+
 
 
 Copyright &copy:2019.All rigths reserved
