@@ -1,7 +1,7 @@
 *{
   margin: 0;
 }
-.logo {
+.logo{
   text-align: center;
   background-image: url("../tools/IP3-master/assets/backgrounds/h_img.jpg");
   background-size: 100vw;
@@ -9,10 +9,10 @@
   background-repeat: no-repeat;
   background-position: fixed;
 }
-#mouse {
+#mouse{
   padding-top: 70px;
 }
-.about {
+.about{
   text-align: center;
   padding-top: 100px;
 }
@@ -22,7 +22,7 @@
   color: white;
   padding-bottom: 200px;
 } */
-.service {
+.service{
   background-image: url("../tools/IP3-master/assets/backgrounds/s_image.jpg");
   text-align: center;
   background-size: cover;
@@ -33,56 +33,74 @@
 .what-we-do{
  text-align: center;
 }
-.what-we-do > #flexer > img {
+.what-we-do > #flexer > img{
   display: flex;
   margin-right: 30vw;
   /* text-align: center; */
 
 }
-.what-we-do > h2 {
+.what-we-do > h2{
   text-align: center;
   padding-top: 100px;
 }
-#flexer {
+.hidden{
+  text-align:center
+}
+#design{
+  cursor:pointer;
+}
+#development{
+   cursor:pointer;
+}
+#product{
+  cursor:pointer;
+}
+#par1{
+}
+#par2{
+}
+#par3{
+}
+#flexer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
-.portfolio {
+.portfolio{
   padding: 50px;
   margin: 10px;
   text-align: center;
 }
-h2 {
+h2{
   text-align: center;
 }
-.contact-form {
+.contact-form{
   background-image:url("../tools/IP3-master/assets/backgrounds/c_image.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 20px;
 }
-#name, #email, #message {
+#name, #email, #message{
   background-color: transparent;
 }
 #button-color{
   background-color: blue;
   color: white;
 }
-input[type="text"],input[type="email"],textarea[type="text"] {
+input[type="text"],input[type="email"],textarea[type="text"]{
   background: transparent;
   outline: none;
   background-color: transparent;
 }
-footer {
+footer{
   text-align: center;
   margin-top: 100px;
 }
 .view:hover .A{
   opacity: 1;
 }
-.A {
+.A{
   position: absolute;
   top: 50%;
   left: 50%;
