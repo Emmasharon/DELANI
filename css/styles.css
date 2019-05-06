@@ -1,11 +1,12 @@
-.logo , #mouse{
+.logo {
   text-align: center;
   background-image: url("../tools/IP3-master/assets/backgrounds/h_img.jpg");
-  background-size: cover;
+  background-size: 100vw;
   color: white;
+  background-repeat: no-repeat;
 }
 #mouse {
-  padding-top: 150px;
+  padding-top: 70px;
 }
 .about {
   text-align: center;
@@ -35,7 +36,8 @@
   justify-content: space-between;
 }
 .portfolio {
-  display: flex;
+  padding: 50px;
+  margin: 10px;
 }
 .contact-form {
   background-image:url("../tools/IP3-master/assets/backgrounds/c_image.jpg");
