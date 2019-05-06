@@ -4,6 +4,7 @@
   background-size: 100vw;
   color: white;
   background-repeat: no-repeat;
+  background-position: fixed;
 }
 #mouse {
   padding-top: 70px;
