@@ -45,6 +45,9 @@
   margin: 10px;
   text-align: center;
 }
+h2 {
+  text-align: center;
+}
 .contact-form {
   background-image:url("../tools/IP3-master/assets/backgrounds/c_image.jpg");
   background-position: center;
